@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="dist/ZipLine-1.0.0.AppImage"><strong>Download AppImage</strong></a>
+  <a href="https://pub-0cfcfe21f6bd432f943faca4b4b8a199.r2.dev/ZipLine-1.0.0.AppImage"><strong>Download AppImage</strong></a>
   ·
-  <a href="dist/zipline-desktop_1.0.0_amd64.deb"><strong>Download .deb</strong></a>
+  <a href="https://pub-0cfcfe21f6bd432f943faca4b4b8a199.r2.dev/zipline-desktop_1.0.0_amd64.deb"><strong>Download .deb</strong></a>
 </p>
 
 <p align="center">
@@ -35,8 +35,8 @@ The current public build is compiled for **Linux x64**.
 
 | System | Download | Notes |
 | --- | --- | --- |
-| Linux x64 | [ZipLine-1.0.0.AppImage](dist/ZipLine-1.0.0.AppImage) | Portable build. Download, make executable, run. |
-| Debian / Ubuntu x64 | [zipline-desktop_1.0.0_amd64.deb](dist/zipline-desktop_1.0.0_amd64.deb) | Installer package for Debian-based distributions. |
+| Linux x64 | [ZipLine-1.0.0.AppImage](https://pub-0cfcfe21f6bd432f943faca4b4b8a199.r2.dev/ZipLine-1.0.0.AppImage) | Portable build. Download, make executable, run. |
+| Debian / Ubuntu x64 | [zipline-desktop_1.0.0_amd64.deb](https://pub-0cfcfe21f6bd432f943faca4b4b8a199.r2.dev/zipline-desktop_1.0.0_amd64.deb) | Installer package for Debian-based distributions. |
 | Windows | Coming later | A Windows build is planned for a future release. |
 
 ### Run the AppImage
