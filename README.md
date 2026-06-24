@@ -29,6 +29,8 @@ ZipLine is a desktop application for transferring files between devices on the s
 
 It is built for moments where cloud uploads feel unnecessary: sharing folders across a desk, passing project files to another laptop, or instantly connecting devices like iPhones and Android phones by scanning a QR code, or simply entering an IP address on another computer or laptop.
 
+<img src="zipline.gif" width="540" alt="ZipLine demo" />
+
 ## Download
 
 The current public build is compiled for **Linux x64**.
